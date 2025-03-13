@@ -74,6 +74,11 @@ I'm a passionate AI/ML developer with strong foundations in Data Science and Sof
   <a href="mailto:udayashanaka42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1313330701742899273" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 </p>
 
   
