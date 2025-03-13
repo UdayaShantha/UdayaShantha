@@ -31,8 +31,7 @@ I'm a passionate AI/ML developer with strong foundations in Data Science and Sof
 
 ### <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> AI powered Interview Monitoring & Confidence Assessment System
 
-[![GitHub Repo](https://img.shields.io/badge/Explore%20Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdayaShantha/Interview-Monitoring_system)
-
+[![GitHub Repo](https://img.shields.io/badge/Explore%20Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdayaShantha/Interview_Monitoring_System)
 - **Real-time Analysis**: Facial expression recognition system using Mediapipe & OpenCV
 - **Model Architecture**: Custom CNN based on VGG-16 architecture
 - **Performance**: 82% validation accuracy on FER-2013 dataset
